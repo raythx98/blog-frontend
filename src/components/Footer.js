@@ -12,16 +12,20 @@ class Footer extends React.Component {
         }}
       >
         <div style={{ float: 'right' }}>
-          <a
-            href="https://raythx.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            website
+          <a href="/rss.xml" target="_blank" rel="noopener noreferrer">
+            rss
           </a>
         </div>
         <a
-          href="https://github.com/raythx98"
+          href="https://mobile.twitter.com/dan_abramov"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          twitter
+        </a>{' '}
+        &bull;{' '}
+        <a
+          href="https://github.com/gaearon"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -29,28 +33,12 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://www.facebook.com/raythx98"
+          href="https://stackoverflow.com/users/458193/dan-abramov"
           target="_blank"
           rel="noopener noreferrer"
         >
-          facebook
-        </a>{' '}
-        &bull;{' '}
-        <a
-          href="https://www.linkedin.com/in/raythx/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          linkedin
-        </a>{' '}
-        {/* &bull;{' '}
-        <a
-          href="https://raythx.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          portfolio
-        </a> */}
+          stack overflow
+        </a>
       </footer>
     );
   }
