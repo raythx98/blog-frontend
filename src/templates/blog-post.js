@@ -165,14 +165,6 @@ class BlogPostTemplate extends React.Component {
                 {formatPostDate(post.frontmatter.date, lang)}
                 {` • ${formatReadingTime(post.timeToRead)}`}
               </p>
-              {translations.length > 0 && (
-                <Translations
-                  translations={translations}
-                  editUrl={editUrl}
-                  languageLink={languageLink}
-                  lang={lang}
-                />
-              )}
             </header>
             <div dangerouslySetInnerHTML={{ __html: html }} />
             <footer>
