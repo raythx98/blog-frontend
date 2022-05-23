@@ -1,0 +1,22 @@
+diff a/src/pages/react-components-unsubscribed.js b/src/pages/react-components-unsubscribed.js	(rejected hunks)
+@@ -1,4 +1,4 @@
+-import React from 'react'
+-import { graphql } from 'gatsby'
+-import Layout from '../components/Layout'
+-import get from 'lodash/get'
++import React from 'react';
++import { graphql } from 'gatsby';
++import Layout from '../components/Layout';
++import get from 'lodash/get';
+@@ -8 +8 @@ class ReactComponentsUnsubscribed extends React.Component {
+-    const siteTitle = get(this.props, 'data.site.siteMetadata.title')
++    const siteTitle = get(this.props, 'data.site.siteMetadata.title');
+@@ -16 +16 @@ class ReactComponentsUnsubscribed extends React.Component {
+-    )
++    );
+@@ -28 +28 @@ export const pageQuery = graphql`
+-`
++`;
+@@ -30 +30 @@ export const pageQuery = graphql`
+-export default ReactComponentsUnsubscribed
++export default ReactComponentsUnsubscribed;

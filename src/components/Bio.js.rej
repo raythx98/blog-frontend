@@ -1,0 +1,8 @@
+diff a/src/components/Bio.js b/src/components/Bio.js	(rejected hunks)
+@@ -26,4 +26,2 @@ class Bio extends React.Component {
+-          Personal blog by{' '}
+-          <a href="https://raythx.com">Ray Toh</a>.{' '}
+-          <br></br>
+-          I document my programming journey.
++          Personal blog by <a href="https://raythx.com">Ray Toh</a>. <br></br>I
++          document my programming journey.
