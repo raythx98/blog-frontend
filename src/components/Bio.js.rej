@@ -1,0 +1,12 @@
+diff a/src/components/Bio.js b/src/components/Bio.js	(rejected hunks)
+@@ -27 +27 @@ class Bio extends React.Component {
+-          <a 
++          <a
+@@ -31,3 +31,4 @@ class Bio extends React.Component {
+-          >Ray Toh</a>.
+-          <br></br>
+-          I document my learning journey.
++          >
++            Ray Toh
++          </a>
++          .<br></br>I document my learning journey.

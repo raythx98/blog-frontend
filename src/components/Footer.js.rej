@@ -1,0 +1,10 @@
+diff a/src/components/Footer.js b/src/components/Footer.js	(rejected hunks)
+@@ -15,2 +15,6 @@ class Footer extends React.Component {
+-          <a href="https://raythx.com" target="_blank" rel="noopener noreferrer">
+-          website
++          <a
++            href="https://raythx.com"
++            target="_blank"
++            rel="noopener noreferrer"
++          >
++            website
