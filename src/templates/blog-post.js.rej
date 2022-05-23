@@ -1,0 +1,30 @@
+diff a/src/templates/blog-post.js b/src/templates/blog-post.js	(rejected hunks)
+@@ -180 +180,5 @@ class BlogPostTemplate extends React.Component {
+-                <a href={"https://www.linkedin.com/in/raythx/"} target="_blank" rel="noopener noreferrer">
++                <a
++                  href={'https://www.linkedin.com/in/raythx/'}
++                  target="_blank"
++                  rel="noopener noreferrer"
++                >
+@@ -184 +188,5 @@ class BlogPostTemplate extends React.Component {
+-                <a href={"mailto:hongxian@comp.nus.edu.sg"} target="_blank" rel="noopener noreferrer">
++                <a
++                  href={'mailto:hongxian@comp.nus.edu.sg'}
++                  target="_blank"
++                  rel="noopener noreferrer"
++                >
+@@ -197,2 +205 @@ class BlogPostTemplate extends React.Component {
+-          >
+-          </h3>
++          ></h3>
+@@ -200,5 +207,2 @@ class BlogPostTemplate extends React.Component {
+-          {(
+-            <Link
+-              to={'/'}
+-              style={{ marginRight: 20 }}
+-            >
++          {
++            <Link to={'/'} style={{ marginRight: 20 }}>
+@@ -207 +211 @@ class BlogPostTemplate extends React.Component {
+-          )}
++          }
