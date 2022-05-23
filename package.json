@@ -4,9 +4,9 @@
   "engines": {"node": "10.x || 12.x || 14.x"},
   "description": "Unscrambled",
   "version": "1.0.0",
-  "author": "Dan Abramov <dan.abramov@me.com>",
+  "author": "Ray Toh <hongxian@comp.nus.edu.sg>",
   "bugs": {
-    "url": "https://github.com/gaearon/overreacted.io/issues"
+    "url": "https://github.com/raythx98/personal-blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",

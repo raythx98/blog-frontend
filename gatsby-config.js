@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: 'Unscrambled',
-    author: 'Dan Abramov',
+    author: 'Ray Toh',
     description: 'Personal blog by Ray Toh. I document my programming journey.',
-    siteUrl: 'https://overreacted.io',
+    siteUrl: 'https://blog.raythx.com',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@raythx98',
     },
   },
   pathPrefix: '/',
