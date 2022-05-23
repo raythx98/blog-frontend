@@ -177,44 +177,38 @@ class BlogPostTemplate extends React.Component {
             <div dangerouslySetInnerHTML={{ __html: html }} />
             <footer>
               <p>
-                <a href={discussUrl} target="_blank" rel="noopener noreferrer">
-                  Discuss on Twitter
+                <a
+                  href={'https://www.linkedin.com/in/raythx/'}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Connect on Linkedin
                 </a>
                 {` • `}
-                <a href={editUrl} target="_blank" rel="noopener noreferrer">
-                  Edit on GitHub
+                <a
+                  href={'mailto:hongxian@comp.nus.edu.sg'}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Email me
                 </a>
               </p>
             </footer>
           </article>
         </main>
         <aside>
-          <div
-            style={{
-              margin: '90px 0 40px 0',
-              fontFamily: systemFont,
-            }}
-          >
-            <Signup cta={post.frontmatter.cta} />
-          </div>
           <h3
             style={{
               fontFamily: 'Montserrat, sans-serif',
               marginTop: rhythm(0.25),
             }}
-          >
-            <Link
-              style={{
-                boxShadow: 'none',
-                textDecoration: 'none',
-                color: 'var(--pink)',
-              }}
-              to={'/'}
-            >
-              Unscrambled
-            </Link>
-          </h3>
+          ></h3>
           <Bio />
+          {
+            <Link to={'/'} style={{ marginRight: 20 }}>
+              ← Homepage
+            </Link>
+          }
           <nav>
             <ul
               style={{

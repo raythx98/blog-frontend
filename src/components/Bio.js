@@ -23,8 +23,15 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Personal blog by <a href="https://raythx.com">Ray Toh</a>. <br></br>I
-          document my programming journey.
+          Personal blog by{' '}
+          <a
+            href="https://raythx.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Ray Toh
+          </a>
+          . <br></br>I document my programming journey.
         </p>
       </div>
     );
