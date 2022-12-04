@@ -92,18 +92,20 @@ Add a `homepage` property to `package.json` in this format: <br>
   "version": "0.1.0",
   "homepage": "https://{gitname}.github.io/{react-gh-pages}",
   "private": true,
+}
 ```
 
 In `package.json`, add `predeploy` and `deploy` properties to the scripts object
 ```jsxon{2-3}
 "scripts": {
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+  "deploy": "echo '{custom-domain}' > ./build/CNAME && gh-pages -d build",
   "start": "react-scripts start",
   "build": "react-scripts build",
+}
 ```
 
-Finally, run the following command to deploy the app, `gh-pages` will prompt you for your github username and authentication token, which you can retrieve from `Github settings` > `Developer settings` > `Personal access tokens`.
+`"echo '{custom-domain}' > ./build/CNAME` prevents the custom domain from being purged in Github. Finally, run the following command to deploy the app, `gh-pages` will prompt you for your github username and authentication token, which you can retrieve from `Github settings` > `Developer settings` > `Personal access tokens`.
 ```
 npm run deploy
 ```
@@ -132,6 +134,7 @@ Add a `homepage` property to `package.json` in this format: <br>
   "version": "0.1.0",
   "homepage": "https://{gitname}.github.io/{react-gh-pages}",
   "private": true,
+}
 ```
 
 In `package.json`, edit `build` and `deploy` properties to the scripts object
@@ -140,7 +143,8 @@ In `package.json`, edit `build` and `deploy` properties to the scripts object
     "dev": "gatsby develop",
     "build": "rm -rf public && rm -rf .cache && gatsby build",
     "now-build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build --prefix-paths && echo '{custom-domain}' > ./public/CNAME && gh-pages -d public",
+  }
 ```
 Why does it look different? Yarn builds into the `public` directory, which is why we need to specify to `gh-pages` to obtain the build folders from `public`.
 
