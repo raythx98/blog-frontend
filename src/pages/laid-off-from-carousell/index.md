@@ -1,6 +1,6 @@
 ---
 title: 'Laid Off from Carousell'
-date: '2023-12-28'
+date: '2022-12-28'
 spoiler: "Lessons learnt during my tenure at Carousell and navigating the recent tech layoffs."
 cta: 'blog'
 ---
