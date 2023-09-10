@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ray Toh's Unscrambled Blog RSS Feed]]></title><description><![CDATA[Personal blog by Ray Toh. I document my programming journey.]]></description><link>https://blog.raythx.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 09 Sep 2023 20:45:54 GMT</lastBuildDate><item><title><![CDATA[Laid Off from Carousell]]></title><description><![CDATA[Lessons learnt during my tenure at Carousell and navigating the recent tech layoffs.]]></description><link>https://blog.raythx.com/laid-off-from-carousell/</link><guid isPermaLink="false">https://blog.raythx.com/laid-off-from-carousell/</guid><pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;carousell&quot;&gt;&lt;a href=&quot;#carousell&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Carousell&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ray Toh's Unscrambled Blog RSS Feed]]></title><description><![CDATA[Personal blog by Ray Toh. I document my programming journey.]]></description><link>https://blog.raythx.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Sep 2023 11:09:26 GMT</lastBuildDate><item><title><![CDATA[Laid Off from Carousell]]></title><description><![CDATA[Lessons learnt during my tenure at Carousell and navigating the recent tech layoffs.]]></description><link>https://blog.raythx.com/laid-off-from-carousell/</link><guid isPermaLink="false">https://blog.raythx.com/laid-off-from-carousell/</guid><pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;carousell&quot;&gt;&lt;a href=&quot;#carousell&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Carousell&lt;/h2&gt;
 &lt;p&gt;In August of last year, I landed a software engineering stint at Carousell last year. Carousell is a mobile and online C2C marketplace for buying and selling new and pre-loved goods. Carousell is headquartered in Singapore and boasts a strong presence in eight different markets. Additionally, they operate three technology development centres in Singapore, Taiwan and India.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -78,6 +78,239 @@
 &lt;p&gt;I am delighted to share that I’ve recently secured an exciting offer with Getgo Technologies. In this new role, I’ll be tasked with migrating their existing .Net monoliths to Event-Driven Microservices in Go. I’m genuinely enthusiastic about this opportunity and look forward to the extensive learning and growth that I anticipate in this fresh environment.&lt;/p&gt;
 &lt;p&gt;What would you have done differently after being laid off? I’d love to hear from you on Linkedin! Thanks for reading.&lt;/p&gt;
                 &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at overreacted.io. You can read it online by &lt;a href=&quot;https://blog.raythx.com/laid-off-from-carousell/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Event Driven Microservices]]></title><description><![CDATA[With all the buzz surrounding Event Driven Architecture, is it really the best architecture?]]></description><link>https://blog.raythx.com/event-driven-microservices/</link><guid isPermaLink="false">https://blog.raythx.com/event-driven-microservices/</guid><pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;getgo-technologies&quot;&gt;&lt;a href=&quot;#getgo-technologies&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;GetGo Technologies&lt;/h2&gt;
+&lt;p&gt;Earlier this year, I was approached by GetGo’s CTO with an exciting opportunity that perfectly aligned with my experience and skill set - to migrate existing monolith to event driven microservices. GetGo is the largest carsharing service in Singapore, with over 2,600 cars across 1,500 locations island wide at the point of writing. The company’s growth trajectory is not stopping and I’m eager to contribute to its continued success.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://blog.raythx.com/static/6d6ceb9267257c6033aad9612d03363d/21b4d/getgo_carsharing.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACIklEQVR42nVSS2sTURTOn9BFu3AhCPYXiKCgm+4EEcRN6aKIXbtRdyIqgitBENSFYHFhayxoa20xbR4mU5OYSRrymjaZjEnm/Z7Me+71TCI+FsJZ3PP4znfOd09iOHbEAAl+NDXODeUg0hHWEFYRlsNICtHU/bsM3iPbS7C2J0dYCuOcgTHRGa5naxtEc6vY3i5TG0Qj3+yvZw+S6VqF5jUcl0ExQDg3+AcMufpQTqarK5tEMlOFLtul9tZ+690eubpbIRnxv2AwBWFad0o9riYolYFYYYRijyUGQkNQv/c4SjLVeHj8BzyagCEELUUfKRiPVcfP0KZo625oN4Qo1bVkBzZSQsT76Dcz6/gxsxRhIUATeRAHIyiO2hQAPHYiQ3e1TE+hVT6KwRaOVeQ9JMXMfswMSupBRJuu6IUeRtDVxLglyHmq3xFkH2MjQibCP3Sr3GMZfQwRbcrM2a6I8fKLb2eu3T23/HKlpoMqa03r2JXXM/MPZi8/vZ+yqybOid7c0puT87fmrj66/X40wFjwgNkwqhY6dbNw4U7h/GNtdunDR1p7UjZP39hceMZcem6fWFi7/pZ5RXkzi6mL99pnHzLHFz+vdm3ZMhNkt09xMkFWciTZYvlUdq9OD49Ybi+fKbXahxz3Jb1TP+oeDqXd9NdP+7Vih04Xcs0Bf0DRCc7x5MkBwRnBtqAquKCHPtEGhDXQrwikzEkQUvCpnBf8BKFRPd4ASs1+AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Getgo Carsharing&quot;
+        title=&quot;&quot;
+        src=&quot;https://blog.raythx.com/static/6d6ceb9267257c6033aad9612d03363d/fcda8/getgo_carsharing.png&quot;
+        srcset=&quot;https://blog.raythx.com/static/6d6ceb9267257c6033aad9612d03363d/12f09/getgo_carsharing.png 148w,https://blog.raythx.com/static/6d6ceb9267257c6033aad9612d03363d/e4a3f/getgo_carsharing.png 295w,https://blog.raythx.com/static/6d6ceb9267257c6033aad9612d03363d/fcda8/getgo_carsharing.png 590w,https://blog.raythx.com/static/6d6ceb9267257c6033aad9612d03363d/efc66/getgo_carsharing.png 885w,https://blog.raythx.com/static/6d6ceb9267257c6033aad9612d03363d/c83ae/getgo_carsharing.png 1180w,https://blog.raythx.com/static/6d6ceb9267257c6033aad9612d03363d/21b4d/getgo_carsharing.png 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3 id=&quot;event-driven-architecture-eda&quot;&gt;&lt;a href=&quot;#event-driven-architecture-eda&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Event Driven Architecture (EDA)&lt;/h3&gt;
+&lt;p&gt;An event-driven architecture uses events to trigger and facilitate communication between decoupled microservices. Events are changes in state or updates, such as an item being placed in a shopping cart on an e-commerce website. These events can carry relevant state information (e.g., the purchased item, its price, and a delivery address) or serve as identifiers (e.g., a notification that an order has been shipped).&lt;/p&gt;
+&lt;p&gt;Event-driven architectures consist of three essential components: event producers, an event broker, and event consumers. Producers are responsible for publishing events to the event broker, which filters and forwards these events to the appropriate consumers. One of the key advantages of this architecture is the decoupling of producer and consumer services, allowing them to be independently scaled, updated, and deployed.&lt;/p&gt;
+&lt;p&gt;Some important EDA patterns include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ibm.com/cloud/architecture/architectures/event-driven-event-sourcing-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Event Sourcing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ibm.com/cloud/architecture/architectures/event-driven-strangler-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Strangler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://microservices.io/patterns/data/database-per-service.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Database per service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Command Query Responsibility Segregation (CQRS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ibm.com/cloud/architecture/architectures/event-driven-saga-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Saga&lt;/a&gt;, which I will explain in greater detail below&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ibm.com/cloud/architecture/architectures/event-driven-deadletter-queue-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Dead Letter Queue&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;pros--cons-of-event-driven-architecture&quot;&gt;&lt;a href=&quot;#pros--cons-of-event-driven-architecture&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pros &amp;#x26; Cons of Event Driven Architecture&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Pros&lt;/th&gt;
+&lt;th&gt;Cons&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Loose Coupling&lt;/td&gt;
+&lt;td&gt;Complexity&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Real-Time Processing&lt;/td&gt;
+&lt;td&gt;Event Ordering&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fault Tolerance&lt;/td&gt;
+&lt;td&gt;Eventual Consistency&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Less Technical Debt&lt;/td&gt;
+&lt;td&gt;Difficult to Troubleshoot&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;event-broker-why-solace&quot;&gt;&lt;a href=&quot;#event-broker-why-solace&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Event Broker: Why Solace?&lt;/h3&gt;
+&lt;p&gt;GetGo has made the strategic decision to adopt Solace as its event broker, as highlighted in &lt;a href=&quot;https://finance.yahoo.com/news/leading-carsharing-getgo-selects-solace-130000049.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;this press coverage&lt;/a&gt;. This choice followed a comprehensive evaluation of various messaging brokers, with the conclusion that Solace’s services are the most suitable for our specific use case. Solace offers a range of advanced features that align with our new requirements, including wildcard topic subscription, delayed delivery, microgateways, and more.&lt;/p&gt;
+&lt;p&gt;Here’s a summary of the key differences between Kafka and Solace:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Kafka&lt;/th&gt;
+&lt;th&gt;Solace&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Consume&lt;/td&gt;
+&lt;td&gt;Consumer Polls&lt;/td&gt;
+&lt;td&gt;Pushed to Consumer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exactly Once Delivery&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Topic Partition&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Consumer Groups&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wildcard Subscription&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Delayed Delivery&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Microgateways&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dead Letter Queue&lt;/td&gt;
+&lt;td&gt;No&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;saga-distributed-transactions&quot;&gt;&lt;a href=&quot;#saga-distributed-transactions&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Saga: Distributed Transactions&lt;/h3&gt;
+&lt;p&gt;When architecting the new backend system, we had extensive discussion on executing distributed transactions that span across multiple services, by breaking it into a collection of subtransactions that can be interleaved in any way with other transactions.&lt;/p&gt;
+&lt;p&gt;When architecting our new backend system, we engaged in thorough discussions regarding the execution of distributed transactions that span across multiple services. Our approach involved breaking these transactions down into local subtransactions, which could be interleaved in a flexible manner with other transactions. This design, also known as Saga, allowed for greater flexibility and adaptability in managing complex transactional processes across our distributed system.&lt;/p&gt;
+&lt;h4 id=&quot;centralized-orchestration&quot;&gt;&lt;a href=&quot;#centralized-orchestration&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Centralized: Orchestration&lt;/h4&gt;
+&lt;p&gt;In the centralized approach, the orchestrator, which is typically the initiating service, takes on the responsibility of coordinating the transaction. It communicates directly with all participating services, instructing them on what local transactions to execute and in what order. This approach provides a clear and centralized control mechanism for managing the entire transaction.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://blog.raythx.com/static/d5c9348032b2d15390fffaf435864a98/147d8/orchestration.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 41.21621621621622%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsTAAALEwEAmpwYAAABVklEQVR42m2RyU4DMQyG5/1fBMSZQy8sJ6Aspcu0BJiZjFoo3VA7kz2xE9wiEAf+gxX/svXZcZZSxJikCrvGWutSSu4gRJRSGKMRIP2vmEGMzlfs9SlnLKa1EJIxRhEA3t7ey6pW2vxWx5isW/jwYlwNGDLjtuDPczbu5xNrrlvRKqUIGyCKj8mGdbazAUAECN77+cdCy+t+PhqxccB5tmt7U37M68eKD8FeCjlDJAQSBbyJYDDsVyCHxhe6SHjJ6+7Dw6lzd5lQN0Z0xk+D3mBgZEdqRkXEoQaj5XzGt5slMVerlbXehWWKF73h5HHYBcyzRszq8qiub3l9//J8shOf39thSmpdNsVZM70nsFKyKIoA4HxPyyspux6aDGg9HPLp6JWPApTx0Pr9OYdp0z7EvUN8itbrVi603ZGXUa60rKocoEGE+PcUP/p7H7piWfKmaen9Bc2bw4agUcJhAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Orchestration&quot;
+        title=&quot;&quot;
+        src=&quot;https://blog.raythx.com/static/d5c9348032b2d15390fffaf435864a98/fcda8/orchestration.png&quot;
+        srcset=&quot;https://blog.raythx.com/static/d5c9348032b2d15390fffaf435864a98/12f09/orchestration.png 148w,https://blog.raythx.com/static/d5c9348032b2d15390fffaf435864a98/e4a3f/orchestration.png 295w,https://blog.raythx.com/static/d5c9348032b2d15390fffaf435864a98/fcda8/orchestration.png 590w,https://blog.raythx.com/static/d5c9348032b2d15390fffaf435864a98/efc66/orchestration.png 885w,https://blog.raythx.com/static/d5c9348032b2d15390fffaf435864a98/c83ae/orchestration.png 1180w,https://blog.raythx.com/static/d5c9348032b2d15390fffaf435864a98/147d8/orchestration.png 1465w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4 id=&quot;decentralized-choreography&quot;&gt;&lt;a href=&quot;#decentralized-choreography&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Decentralized: Choreography&lt;/h4&gt;
+&lt;p&gt;In the decentralized approach, choreography distributes the transactional control across the participating services. In this scenario, each local transaction generates domain events as it progresses. These domain events are then published and can trigger local transactions in other services that subscribe to these events. This approach promotes a more loosely coupled and decentralized architecture, where each service autonomously manages its part of the transaction.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;https://blog.raythx.com/static/7d121e9d0ef37ee85078319981d2d1ab/3dde1/choreography.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 42.567567567567565%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsTAAALEwEAmpwYAAABdElEQVR42m1Rx07DQBD1/1+4ceMbUCKKBCKURHCgCKEQqiEmCBF7s81bZpvNOOQAgqe97O7MKzOZ1loI4b2PMbZtSwjp9XpN07R/EELgnDPGjDEpJXzJUozWOaaEAoN3Y3RVVcbYaBmwwvEZ8Pe05EVG7EcZCw6cXzY3rYZHQftKnbgAMUSt6hBbOj1nt5t00i/HW1bXMSFDQD0IrCSDeXVoPMusl9aO8vy4qkYWCrTfLKGUJmSxWFApJWZwznnnlNYW7qavB++zgXY32ExqdbY9oOP7FwPjEFdpMVUMHVARucqynM9LqZix53vHxdFp4cJZhko+PezurOX5VkhgLXQNy3l8A2eHB6OiOGZP7cdouH55seGbtwy/fbQVnUo9T11hpxli0uxDPO6qfJ/c9vlnzkXNKOVcaJBSPYn62UfI2n/QOTeKkeKazm7KlytbU6QTnAPAD1NNtrLWLfbXbnFAXOpaWyZqvI6Gw8lksirt0FF8AY1o/iX1v2wwAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Choreography&quot;
+        title=&quot;&quot;
+        src=&quot;https://blog.raythx.com/static/7d121e9d0ef37ee85078319981d2d1ab/fcda8/choreography.png&quot;
+        srcset=&quot;https://blog.raythx.com/static/7d121e9d0ef37ee85078319981d2d1ab/12f09/choreography.png 148w,https://blog.raythx.com/static/7d121e9d0ef37ee85078319981d2d1ab/e4a3f/choreography.png 295w,https://blog.raythx.com/static/7d121e9d0ef37ee85078319981d2d1ab/fcda8/choreography.png 590w,https://blog.raythx.com/static/7d121e9d0ef37ee85078319981d2d1ab/efc66/choreography.png 885w,https://blog.raythx.com/static/7d121e9d0ef37ee85078319981d2d1ab/3dde1/choreography.png 1018w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;evaluation-of-saga-patterns&quot;&gt;&lt;a href=&quot;#evaluation-of-saga-patterns&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Evaluation of SAGA Patterns&lt;/h3&gt;
+&lt;p&gt;Centralized orchestration can provide strict control over transactions but may introduce a single point of failure and limit scalability. Decentralized orchestration, on the other hand, offers greater autonomy and scalability but can lead to increased complexity in managing distributed transactions. To manage the complexity that comes with Saga, we have decided to adopt the orchestration approach.&lt;/p&gt;
+&lt;p&gt;In addition, we have also identified some challenges that come with EDA in our specific use case&lt;/p&gt;
+&lt;h4 id=&quot;compensating-transactions&quot;&gt;&lt;a href=&quot;#compensating-transactions&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Compensating transactions&lt;/h4&gt;
+&lt;p&gt; Having compensating transactions is crucial, they serve as a safety net to reverse the effects of a preceding transaction if any downstream transaction encounters an issue or fails. They ensure that the system remains in a consistent state, even in the presence of failures.&lt;/p&gt;
+&lt;h4 id=&quot;asynchronouseventual-consistency&quot;&gt;&lt;a href=&quot;#asynchronouseventual-consistency&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Asynchronous/Eventual Consistency&lt;/h4&gt;
+&lt;p&gt;Asynchronous processing is a fundamental characteristic of EDA. It means that events are generated, transmitted, and processed at different times, potentially leading to eventual consistency rather than immediate consistency. This understanding is essential for designing systems that can handle eventual consistency gracefully. &lt;/p&gt;
+&lt;h4 id=&quot;timeout-mechanism&quot;&gt;&lt;a href=&quot;#timeout-mechanism&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Timeout mechanism&lt;/h4&gt;
+&lt;p&gt;For time-sensitive operations or events, implementing a timeout mechanism is critical. This mechanism helps manage situations where an event takes too long to complete or does not receive a response within an expected timeframe. When timeouts occur, systems should be prepared to take appropriate actions, such as triggering compensating transactions or notifying stakeholders.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;my-opinions-on-eda&quot;&gt;&lt;a href=&quot;#my-opinions-on-eda&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My opinions on EDA&lt;/h3&gt;
+&lt;p&gt;Based on my practical experience implementing the Saga pattern for my company’s migration to EDA, I personally believe that the benefits do not justify the effort needed to handle all the aforementioned challenges.&lt;/p&gt;
+&lt;p&gt;If I were the CTO of a startup aiming to break away from a monolithic architecture, I would lean towards using microservices that communicate with each other through gRPC. This preference is driven by several factors:&lt;/p&gt;
+&lt;h4 id=&quot;simplicity-and-manageability&quot;&gt;&lt;a href=&quot;#simplicity-and-manageability&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Simplicity and Manageability:&lt;/h4&gt;
+&lt;p&gt;gRPC offers a simpler and more synchronous communication model compared to EDA. This simplicity can lead to faster development, easier debugging, and lower operational complexity, which is often crucial for startups with limited resources.&lt;/p&gt;
+&lt;h4 id=&quot;reduced-complexity&quot;&gt;&lt;a href=&quot;#reduced-complexity&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reduced Complexity:&lt;/h4&gt;
+&lt;p&gt;Handling distributed transactions and compensating transactions in an EDA system can be complex and resource-intensive. In contrast, gRPC’s request-response model simplifies transactional behavior between microservices.&lt;/p&gt;
+&lt;h4 id=&quot;performance&quot;&gt;&lt;a href=&quot;#performance&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Performance:&lt;/h4&gt;
+&lt;p&gt;gRPC is known for its low latency and efficiency, making it suitable for scenarios where high performance is essential. This aligns well with the goal of building scalable and responsive services in a startup environment.&lt;/p&gt;
+&lt;p&gt;However, it’s crucial to emphasize that architectural decisions should always align with the specific goals, constraints, and context of the project.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;go-vs-net-c&quot;&gt;&lt;a href=&quot;#go-vs-net-c&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Go vs .Net (C#)&lt;/h3&gt;
+&lt;p&gt;Based on my experience with these programming languages and frameworks, my personal preference leans towards Go.&lt;/p&gt;
+&lt;p&gt;I must acknowledge the merits of .NET, particularly the Entity Framework, which offers a robust set of development tools right out of the box. These tools include features like validation, authorization, and seamless integration with Swagger documentation, making development more efficient and streamlined.&lt;/p&gt;
+&lt;p&gt;However, it’s important to note that the .NET framework has faced challenges in terms of its adoption and growth in recent times. As a result, it may not be the most future-proof choice. On the other hand, Go has emerged as a compelling option for backend microservices due to several key factors:&lt;/p&gt;
+&lt;h4 id=&quot;performance-1&quot;&gt;&lt;a href=&quot;#performance-1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Performance:&lt;/h4&gt;
+&lt;p&gt;Go is renowned for its speed and efficiency, making it one of the fastest garbage-collected languages available. This performance advantage is particularly valuable when building scalable and responsive microservices.&lt;/p&gt;
+&lt;h4 id=&quot;concurrency&quot;&gt;&lt;a href=&quot;#concurrency&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Concurrency:&lt;/h4&gt;
+&lt;p&gt;Go excels in supporting safe and efficient concurrency, which is crucial in a microservices architecture where numerous concurrent tasks need to be handled effectively.&lt;/p&gt;
+&lt;h4 id=&quot;community-and-ecosystem&quot;&gt;&lt;a href=&quot;#community-and-ecosystem&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Community and Ecosystem:&lt;/h4&gt;
+&lt;p&gt;Go has a vibrant and growing community, with a wealth of libraries and tools that cater to the needs of modern microservices development.&lt;/p&gt;
+&lt;h4 id=&quot;simplicity-and-maintainability&quot;&gt;&lt;a href=&quot;#simplicity-and-maintainability&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Simplicity and Maintainability:&lt;/h4&gt;
+&lt;p&gt;Go’s simplicity and minimalism contribute to cleaner, more maintainable code, which is essential for long-term project success.&lt;/p&gt;
+&lt;p&gt;In summary, while .NET has its strengths, including its rich tooling and features, Go’s performance, concurrency support, and growing popularity in the microservices space make it a compelling choice, especially when considering the long-term sustainability and scalability of a project.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;What are your thoughts on event-driven architecture? I’d love to hear from you on Linkedin! Thanks for reading.&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at overreacted.io. You can read it online by &lt;a href=&quot;https://blog.raythx.com/event-driven-microservices/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item><item><title><![CDATA[Building Webpages]]></title><description><![CDATA[Simplifying webpage development using gh-pages.]]></description><link>https://blog.raythx.com/building-webpages/</link><guid isPermaLink="false">https://blog.raythx.com/building-webpages/</guid><pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Around this time last year, I had a taste of what web development is like — using the legacy HTML/CSS/Javascript, feel free to check out my &lt;a href=&quot;https://legacy.raythx.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;legacy website&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Fast forward to this year, I learned more about modern frontend frameworks, more notably &lt;code class=&quot;language-text&quot;&gt;React&lt;/code&gt;, which is powerful in creating reusable containers. I further honed my web development skills by making a &lt;a href=&quot;https://raythx.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;new website&lt;/a&gt; and &lt;a href=&quot;https://blog.raythx.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Unscrambled&lt;/a&gt;, this very blog site.&lt;/p&gt;
 &lt;hr&gt;
